@@ -1,39 +1,35 @@
+No 1 (Leader)
+Name: Mohanraj.M
+Register No: 815522104009
+Email: mohanrajmmohanrajm800@gmail.com
+Phone: 9944668378
 
 
+No 2 Member
+Name: Ishwarya.G
+Register No: 815522104005
+Email: ishishwarya79@gmail.com
+Phone: 8610464335
 
- Group Project : 4 Members
-```
-  Member 1 (Leader): 
-          Name:Vimala M
-          Registration Number: 814622104055 
-          Email: 22CS053@trichyengg.ac.in
-          Phone: 8754656958
-         
-```
-  Member 2:
-          Name:Sudalai manikadan S
-          Registration Number: 814622104051
-          Email: 22CS050@trichyengg.ac.in
-          Phone: 9345383782
-```
-```
-  Member 3:
-          Name:Kalyani P
-          Registration Number: 81462210405523
-          Email: 22CS023@trichyengg.ac.in 
-          Phone: 9943357856
-```
-```
-  Member 4:
-          Name:Chandru K
-          Registration Number: 81462210405512
-          Email: 22CS012@trichyengg.ac.in
-          Phone: 9390550089
-```
-```
-  Member 5:
-          Name:Vasuki 
-          Registration Number: 814622104054
-          Email: 22CS052@trichyengg.ac.in
-          Phone: 6379675749
-```
+
+No 3 Member
+Name: Kaviya.R
+Register No: 815522104006
+Email: kaviyaraj0305@gmail.com
+Phone: 6369464570
+
+
+No 4 Member
+Name: Kokilavani.M
+Register No: 815522104007
+Email: kokilavani1604@gmail.com
+Phone: 9342638192
+
+
+No 5 Member
+Name: Banupriya.R
+Register No: 815522104003
+Email: barath35ff@gmail.com
+Phone: 97156557887
+
+........*........
